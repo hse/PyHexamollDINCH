@@ -94,7 +94,7 @@ def runMorris(
             n_trajectories,
             num_levels,
             grid_jump,
-            os.cpu_count()
+            1 # os.cpu_count()
         )
     except:
         with results_output:
