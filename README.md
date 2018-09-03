@@ -1,4 +1,4 @@
-# PyHexamoll® DINCH
+# Hexamoll® DINCH
 PBPK simulation
 
 ## Morris Screening
