@@ -1,5 +1,5 @@
 # Hexamoll® DINCH
-PBPK simulation
+Python demo of PBPK simulation
 
 ## Morris Screening
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hse/PyHexamollDINCH/master?filepath=morris.ipynb)
